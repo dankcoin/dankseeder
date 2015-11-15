@@ -356,7 +356,7 @@ extern "C" void* ThreadStats(void*) {
   } while(1);
 }
 
-static const string mainnet_seeds[] = {"dankseed.dankcoin.org", ""};
+static const string mainnet_seeds[] = {"dankseed.dankcoin.org", "dankseed.pepeshare.com"};
 static const string testnet_seeds[] = {"testnet-dankseed.dankcoin.org", ""};
 static const string *seeds = mainnet_seeds;
 
